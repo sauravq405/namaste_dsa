@@ -7,3 +7,7 @@ let obj = {
 
 
 }
+
+console.log(obj.a);
+console.log(obj.name);
+console.log(obj.arr);
